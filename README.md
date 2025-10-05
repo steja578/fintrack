@@ -2,7 +2,7 @@
 #  FinTrack — Full Stack Personal Finance Tracker
 
 > **Cloud-Native Personal Expense Management System**
-> Built with **Spring Boot**, **React**, **MySQL**, **Docker**, and **AWS** — integrating CI/CD, API documentation (Swagger), and real-time deployment pipelines.
+> Built with **Spring Boot**, **React**, **MySQL**, **Docker**, and **AWS** — integrating CI/CD, API documentation (Swagger), and real time deployment pipelines.
 
 ---
 
