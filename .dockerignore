@@ -1,0 +1,32 @@
+# Maven build output
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IntelliJ / VSCode / Eclipse project files
+.idea/
+.vscode/
+*.iml
+*.classpath
+*.project
+*.settings/
+
+# Logs
+*.log
+logs/
+spring.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Git and temp files
+.git/
+.gitignore
+**/.git
+**/.gitignore
+*.tmp
+*.swp
+
+# Docker itself
+Dockerfile
+docker-compose.yml
