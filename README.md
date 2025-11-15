@@ -312,7 +312,7 @@ H[CloudWatch] -->|Monitor Logs & Metrics| D
 ## 👩‍💻 Author
 
 Bharah Shiva Sai Teja Madala
-💼 Senior Full-Stack / Android Developer
+💼 Senior Full-Stack Java Developer
 📍 New York, NY
 🌐 [LinkedIn] | [GitHub](https://github.com/steja578)
 
